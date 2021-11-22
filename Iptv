@@ -199,6 +199,10 @@ http://tv.alphamediazone.com:8089/thunderbd/98/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/99/index.m3u8
 #EXTINF:-1,100
 http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+#EXTINF:-1,101
+http://tv.alphamediazone.com:8089/thunderbd/101/index.m3u8
+#EXTINF:-1,102
+http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 
 
 
